@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prep3</string>
+    <string name="txtN">Digite um número entre 0 e 20.</string>
+    <string name="txtCalcular">Calcular.</string>
+    <string name="txtRes">O resultado é:</string>
+    <string name="txtInvalido">Número inválido.</string>
+</resources>
